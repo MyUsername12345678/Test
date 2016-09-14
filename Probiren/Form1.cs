@@ -15,6 +15,7 @@ namespace Probiren
         public Form1()
         {
             InitializeComponent();
+            MessageBox("Heelo");
         }
     }
 }
